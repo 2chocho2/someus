@@ -24,3 +24,12 @@
     <li>로그인 여부에 따른 접속 권한 처리</li>
   </ul>
 </div>
+
+<div>
+  <h3>React, REST API를 사용한 개인/공유 일기 작성 기능</h3>
+  <ul>
+    <li>REST API를 통한 CRUD 기능 구현</li>
+    <li>MultipartFile/FormData를 사용한 파일 입출력</li>
+    <li>State 관리를 통한 상태 처리</li>
+  </ul>
+</div>
